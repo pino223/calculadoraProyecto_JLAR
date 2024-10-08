@@ -15,7 +15,6 @@ namespace calculadoraProyecto_JLAR
         string operacion = "";
         bool nuevoNum = true;
 
-
         public MainPage()
         {
             InitializeComponent();
